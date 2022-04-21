@@ -25,8 +25,8 @@
 
 ## Primitivos
 * contenedores de tamaño especifico que almacena valores y no tienen metodos.
-*ejemplo boolean, char, byte, short, long, float, double.
+* ejemplo boolean, char, byte, short, long, float, double.
 
 ## Referenciales
-*almacenaa las referencias a los datos.
-*estos atos se escriben en una zona de memoria llamada heap.
+* almacenaa las referencias a los datos.
+* estos atos se escriben en una zona de memoria llamada heap.
